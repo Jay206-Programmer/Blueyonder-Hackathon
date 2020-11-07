@@ -1,6 +1,6 @@
 # Blueyonder-Hackathon
 
-### Machine Learning Project
+### Machine Learning Project - Predict Restaurent's Delivery Time 
 
 This repository contains my submission for the **Blueyonder's Restaurent Delivery Time Prediction Hacakthon**. 
 
